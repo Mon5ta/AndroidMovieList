@@ -1,0 +1,17 @@
+com/android/AndroidMovieList/MainActivity.java
+ com.android.AndroidMovieList.MainActivity
+com/android/AndroidMovieList/network/RetroInstance.java
+ com.android.AndroidMovieList.network.RetroInstance
+com/android/AndroidMovieList/BuildConfig.java
+ com.android.AndroidMovieList.BuildConfig
+com/android/AndroidMovieList/network/APIService.java
+ com.android.AndroidMovieList.network.APIService
+com/android/AndroidMovieList/model/MovieModel.java
+ com.android.AndroidMovieList.model.MovieModel
+com/android/AndroidMovieList/adapter/MovieListAdapter.java
+ com.android.AndroidMovieList.adapter.MovieListAdapter
+ com.android.AndroidMovieList.adapter.MovieListAdapter$ItemClickListener
+ com.android.AndroidMovieList.adapter.MovieListAdapter$MyViewHolder
+com/android/AndroidMovieList/viewmodel/MovieListViewModel.java
+ com.android.AndroidMovieList.viewmodel.MovieListViewModel
+ com.android.AndroidMovieList.viewmodel.MovieListViewModel$1
